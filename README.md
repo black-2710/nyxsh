@@ -1,4 +1,4 @@
-#  Nyxsh — The Custom Minimal Shell
+#  nyxsh — The Custom Minimal Shell
 
 > _"Simple. Scriptable. Stealthy."_  
 > Designed for hackers, minimalists, and those who prefer to build their tools from the ground up.
@@ -7,7 +7,7 @@
 
 ## ✨ Overview
 
-**Nyxsh** is a lightweight custom Unix shell handcrafted in C.  
+**nyxsh** is a lightweight custom Unix shell handcrafted in C.  
 It embraces simplicity, a beautiful CLI aesthetic, and extensibility through dotfiles and modular design.
 
 This shell is not meant to replace Bash or Zsh—  
