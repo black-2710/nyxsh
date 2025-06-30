@@ -25,7 +25,7 @@ It embraces simplicity, a beautiful CLI aesthetic, and extensibility through dot
   
 ---
 
-## 🔥 .nyxrc Support
+## .nyxrc Support
 
 Place your custom aliases, banners, and commands in:
 
